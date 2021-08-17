@@ -1,0 +1,83 @@
+*{
+    text-decoration: none;
+}
+.letra{
+    font-family: fantasy;
+    color:black;
+    background-image: url("Pense\ como\ uma\ montanha.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.titulo{
+    text-align: center;
+    font-size: 60px;
+    text-shadow: 0.1em 0.1em 0.07em whitesmoke;
+    margin: 25px;
+}
+
+
+.ocomeco{
+    border: solid #000000;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 50px;
+    padding: 30px;
+    font-size: 22px;
+    color: gold;
+    /* color: forestgreen ; */
+    background-color: rgba(0, 0, 0, 0.3);
+    text-transform: none;
+}
+
+.players a{
+    /* color: gold; */
+    color: rgb(68, 190, 68) ;
+    /* background-color: rgba(0, 0, 0, 0.2); */
+}
+
+.players{
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+}
+
+.pl1{
+    border: 2px solid #000000;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.2);
+    text-shadow: 0.1em 0.1em 0.07em rgb(0, 0, 0);
+    
+}
+
+.pl2{
+    border: 2px solid #000000;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.2);
+    text-shadow: 0.1em 0.1em 0.07em rgb(0, 0, 0);
+}
+
+.pl3{
+    border: 2px solid #000000;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.2);
+    text-shadow: 0.1em 0.1em 0.07em rgb(0, 0, 0);
+}
+
+.players a:hover{
+    font-size: 40px;
+    color: gold;
+}
+
+footer{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    background-color: black;
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+}
