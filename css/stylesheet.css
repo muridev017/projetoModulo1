@@ -32,7 +32,7 @@ main>p{
     text-transform: none;
 }
 
-.players a{
+a{
     /* color: gold; */
     color: rgb(68, 190, 68) ;
     /* background-color: rgba(0, 0, 0, 0.2); */
@@ -54,14 +54,6 @@ main>p{
 }
 
 .pl2{
-    border: 2px solid #000000;
-    border-radius: 10px;
-    padding: 10px;
-    background-color: rgba(0, 0, 0, 0.2);
-    text-shadow: 0.1em 0.1em 0.07em rgb(0, 0, 0);
-}
-
-.pl3{
     border: 2px solid #000000;
     border-radius: 10px;
     padding: 10px;
