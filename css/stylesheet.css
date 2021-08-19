@@ -1,13 +1,16 @@
 *{
     text-decoration: none;
 }
-.letra{
-    font-family: fantasy;
-    color:black;
-    background-image: url("../img/Pense\ como\ uma\ montanha.jpg");
+
+body{
+    background-image: url("../img/the-hobbit-dwarves-wallpaper-1600x900.png");
     background-repeat: no-repeat;
     background-size: cover;
+    font-family: fantasy;
+    color:black;
+    text-align: center;
 }
+
 
 .titulo{
     text-align: center;
@@ -17,7 +20,7 @@
 }
 
 
-.ocomeco{
+main>p{
     border: solid #000000;
     border-radius: 10px;
     display: inline-block;
@@ -25,7 +28,6 @@
     padding: 30px;
     font-size: 22px;
     color: gold;
-    /* color: forestgreen ; */
     background-color: rgba(0, 0, 0, 0.3);
     text-transform: none;
 }
