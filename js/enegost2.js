@@ -17,7 +17,7 @@ function resposta()
         alert ("Enegost passa a noite só")
         alert ("Os dias se passam e...")
         alert ("Sua família demora a voltar, ficando sem alimento por dias. Enegost morreu de fome.")
-        location.href = "gameoverEne.html"
+        location.href = "gameover.html"
   
     } 
     

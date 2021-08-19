@@ -1,4 +1,3 @@
-
 function resposta()
 {
     var respost = prompt("O que Enegost deve fazer? Escolha entre 1 ou 2.")
@@ -9,15 +8,13 @@ function resposta()
     }
 
     if (respost == 1) {
-        location.href = "enegost2.html"
+        alert ("Encontra seu pai no meio do caminho voltando com um cervo e uma pele de um animal feroz que Ferin derrotou.")
+        location.href = "enegost4.html"
        
     } else {
-        alert ("Encontra elfo chamado Aiwe perto do rio, Aiwe estava vagando pois tinha ser perdido do seu grupo de elfos, os Teleri.")
-        alert ("Chegando a floresta um bando de orcs passava por lá e capturou Enegost.")
-        alert ("Ele nunca mais foi visto...")
-        alert ("Não se sabe sobre Aiwe.")
+        alert ("Foi em direção a sua irmã mas não consegue encontra-la...")
         location.href = "gameover.html"
   
     } 
-
+    
 }
