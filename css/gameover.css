@@ -1,0 +1,23 @@
+.gameover {
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.indexLink a {
+    color: rgb(68, 190, 68) ;
+}
+
+.indexLink {
+    color: rgb(68, 190, 68) ;
+}
+
+footer{
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+}

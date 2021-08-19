@@ -4,7 +4,7 @@
 .letra{
     font-family: fantasy;
     color:black;
-    background-image: url("Pense\ como\ uma\ montanha.jpg");
+    background-image: url("../img/Pense\ como\ uma\ montanha.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -75,6 +75,7 @@
 footer{
     display: flex;
     justify-content: space-around;
+    font-size: 20px;
     color: white;
     background-color: black;
     position:fixed;
