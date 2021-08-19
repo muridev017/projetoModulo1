@@ -8,11 +8,11 @@ function resposta()
     }
 
     if (respost == 1) {
-        location.href = "lana2.html"
+        location.href = "lana1.html"
        
     } else {
        
-        location.href = "lana2_1.html"
+        location.href = "lana1_2.html"
   
     } 
 }
