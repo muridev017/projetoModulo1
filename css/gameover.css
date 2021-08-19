@@ -11,6 +11,11 @@
     color: rgb(68, 190, 68) ;
 }
 
+.indexLink a:hover{
+    font-size: 40px;
+    color: gold;
+}
+
 footer{
     display: flex;
     justify-content: space-around;
